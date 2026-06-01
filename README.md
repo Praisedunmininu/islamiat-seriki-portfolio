@@ -19,7 +19,7 @@ Welcome to my Data Science Portfolio.This respository showcase projects in SQL, 
    
 Tools: SQL, MySQL
 
-View Project:https://github.com/Praisedunmininu/ecommerce-sales-analysis-sql
+View Project : https://github.com/Praisedunmininu/ecommerce-sales-analysis-sql
 
 objective: Analyze e-commerce sales data to identify revenue trends, customer purchasing behavior, and top-performing products.
 
@@ -32,7 +32,7 @@ Generated business insights to support decision-making.
    
 Tools: Microsoft Excel, Pivot Table, Charts
 
-View Point: https://github.com/Praisedunmininu/excel-ecommerce-sales-dashboard
+View Project: https://github.com/Praisedunmininu/excel-ecommerce-sales-dashboard
 
 objective: Explores e-commerce sales data to generate insight on sales performance,profitability,and profit margin across category, region and products 
 
@@ -72,7 +72,7 @@ Highlighted factors associated with improved academic outcomes.
    
 Tools: Power BI
 
-View Point : https://github.com/Praisedunmininu/Superstore-Insight-Dashboard
+View Project : https://github.com/Praisedunmininu/Superstore-Insight-Dashboard
 
 Objective: Analyze sales and profit performance across different buisness area in a retail superstore 
 
@@ -88,7 +88,7 @@ Discovered key customer segments driving repeat purchases and overall sales volu
    
 Tools: Python
 
-View Poin: https://github.com/Praisedunmininu/hospital-no-show-analysis
+View Project : https://github.com/Praisedunmininu/hospital-no-show-analysis
 
 Objective: Analyze patient appointment data to understand factors contributing to missed medical appointments.
 
